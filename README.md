@@ -47,7 +47,6 @@
               understanding of E-commerce to his work.
             </p>
             <div class="rectangle-40427"></div>
-            <img class="mask-group-2" src="img/mask-group-5@2x.png" alt="Mask group" />
             <div class="hi-im-will">Hi, I’m Will! 👋</div>
             <p class="ive-been-in-the-cre">
               I’ve been in the creative industry for 5+ years designing for brands and building crazy experiences.<br /><br />My
@@ -125,7 +124,6 @@
             <div class="overlap-group9">
               <div class="rectangle-40443"></div>
               <div class="rectangle-40600"></div>
-              <img class="mask-group-3" src="img/mask-group-2@1x.png" alt="Mask group" />
               <div class="product-management articulatcf-extra-extra-bold-white-44px">Product Management</div>
               <p class="wills-experience-in articulatcf-normal-white-20px">
                 Will’s experience in both the freelance and startup worlds have seen him create products that solve
@@ -138,7 +136,6 @@
                 important problems. His passion for unique E-commerce tools has lead to the fulfilling career he has had
                 so far.
               </p>
-              <img class="mask-group-4" src="img/mask-group-3@1x.png" alt="Mask group" />
             </div>
             <div class="overlap-group12">
               <div class="rectangle-40595"></div>
@@ -181,7 +178,7 @@
                 to read more.
               </p>
             </div>
-            <img class="mask-group-5" src="img/mask-group-1@1x.png" alt="Mask group" />
+           
             <div class="group-48095933">
               <div class="x103"></div>
               <div class="overlap-group-4">
@@ -261,7 +258,6 @@
                 <div class="overlap-group-6"><div class="get-in-touch">Get in Touch</div></div>
               </div>
             </div>
-            <img class="mask-group-6" src="img/mask-group-4@1x.png" alt="Mask group" />
             <div class="rectangle-40628"></div>
           </div>
           <div class="overlap-group15">
@@ -328,13 +324,6 @@
   width: 1124px;
 }
 
-.home .mask-group-1 {
-  height: 864px;
-  left: 0;
-  position: absolute;
-  top: 42px;
-  width: 1064px;
-}
 
 .home .rectangle-40247 {
   background: linear-gradient(180deg, rgb(0, 70.21, 250.75) 0%, rgb(56, 171.42, 255) 49.89%, rgb(29, 26, 190) 100%);
@@ -570,13 +559,6 @@
   width: 538px;
 }
 
-.home .mask-group-2 {
-  height: 486px;
-  left: 513px;
-  position: absolute;
-  top: 271px;
-  width: 452px;
-}
 
 .home .hi-im-will {
   color: var(--white);
@@ -904,14 +886,6 @@
   width: 1093px;
 }
 
-.home .mask-group-3 {
-  height: 737px;
-  left: 0;
-  position: absolute;
-  top: 615px;
-  width: 1093px;
-}
-
 .home .product-management {
   left: 257px;
   letter-spacing: -0.44px;
@@ -933,13 +907,6 @@
   width: 544px;
 }
 
-.home .mask-group-4 {
-  height: 528px;
-  left: 566px;
-  position: absolute;
-  top: 92px;
-  width: 528px;
-}
 
 .home .overlap-group12 {
   height: 337px;
@@ -1155,14 +1122,6 @@
   min-height: 78px;
   text-align: center;
   width: 693px;
-}
-
-.home .mask-group-5 {
-  height: 711px;
-  left: 117px;
-  position: absolute;
-  top: 50px;
-  width: 834px;
 }
 
 .home .group-48096118 {
@@ -1583,13 +1542,6 @@
   width: 136px;
 }
 
-.home .mask-group-6 {
-  height: 679px;
-  left: 41px;
-  position: absolute;
-  top: 0;
-  width: 1067px;
-}
 
 .home .rectangle-40628 {
   background-color: var(--alto);
